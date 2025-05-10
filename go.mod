@@ -11,6 +11,7 @@ require (
 	go.etcd.io/etcd/client/pkg/v3 v3.5.21
 	google.golang.org/grpc v1.72.0
 	google.golang.org/protobuf v1.36.6
+	//github.com/jainyk/distkv/proto v0.0.0-20240218202821-56aae31c358a // indirect
 )
 
 require (

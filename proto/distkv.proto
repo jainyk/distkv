@@ -1,6 +1,5 @@
 syntax = "proto3";
 
-package distkv;
 option go_package = "github.com/jainyk/distkv/proto";
 
 service KVStore {
